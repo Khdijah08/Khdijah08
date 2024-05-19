@@ -3,7 +3,7 @@
 > pkg update && pkg upgrade
 > pkg install git
 > pkg install python
-> git clone https://github.com/Mr-XsZ1/wingo
+> git clone https://github.com/Khdijah08
 > cd wingo
 
 ## untuk run
